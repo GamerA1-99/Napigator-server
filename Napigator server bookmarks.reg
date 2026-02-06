@@ -64,7 +64,7 @@ Windows Registry Editor Version 5.00
 "Last Visit"=dword:69760a19
 
 
-[HKEY_CURRENT_USER\Software\thirty4 interactive\Napigator\Bookmarks\dabandits-hideaway.ddns.net:12154]
+[HKEY_CURRENT_USER\Software\thirty4 interactive\Napigator\Bookmarks\dabandits-hideaway.ddns.net]
 "IP Address"="73.64.230.227"
 "Network"="DABANDITS"
 "Port"=dword:00002f7a
@@ -182,5 +182,3 @@ Windows Registry Editor Version 5.00
 "Port"=dword:00001a16
 "Visits"=dword:00000004
 "Last Visit"=dword:6976071a
-
-
